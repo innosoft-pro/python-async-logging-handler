@@ -1,7 +1,7 @@
 from logging import FileHandler
 from logging.handlers import RotatingFileHandler, TimedRotatingFileHandler
 from threading import Thread
-from Queue import Queue
+from queue import Queue
 
 
 class AsyncHandlerMixin(object):
