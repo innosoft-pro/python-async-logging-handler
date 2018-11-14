@@ -8,7 +8,7 @@ Useful when using logging in programs, where long-time blocking for logging to f
 **Installation**
 
 ```bash
-pip install git+https://github.com/CopterExpress/python-async-logging-handler.git
+pip install git+https://github.com/innosoft-pro/python-async-logging-handler.git
 ```
 
 **Using**
